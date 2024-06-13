@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    background-color: #f0ecec;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+    border-bottom: 2px solid #333; /* Add a bottom border to the heading */
+    padding-bottom: 10px; /* Add some padding to create space between the text and the border */
+    display: inline-block; /* Ensure the border fits the text width */
+}
+
+p {
+    color: #13601c;
+    line-height: 1.6;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+}
